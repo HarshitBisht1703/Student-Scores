@@ -1,0 +1,1 @@
+This is a python based project showcasing the basic data exploration and visual exploratory data analysis of the Student Scores where we analyze if certain components like the level of Parent's Education or Religion affect student's marks or not
